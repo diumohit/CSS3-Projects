@@ -1,0 +1,50 @@
+.table_border {
+
+    border: 2px solid black;
+    padding: 2px;
+    /*background-color: blanchedalmond;*/
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+
+}
+
+
+/* table tr{
+
+border: 2px solid black;
+padding: 25px;
+
+
+} */
+
+table tr td {
+
+    border: 2px solid black;
+    background-color:black;
+    padding: 25px;
+    
+
+}
+
+table tr td:hover {
+
+    color:black;
+    background-color: wheat;
+
+}
+
+
+
+table tr td .inputarea {
+
+    padding: 25px;
+    width: 252px;
+    text-align: right;
+}
+
+
+
